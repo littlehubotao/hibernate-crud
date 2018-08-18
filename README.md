@@ -1,0 +1,4 @@
+# hibernate-crud
+学习hibernate的crud
+玩了一下如何上传自己的代码到git
+里面只有hibernate的crud
